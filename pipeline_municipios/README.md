@@ -13,8 +13,8 @@ DBeaver Community (GUI para banco de dados)
 Clone o repositório:
 
 
-git clone <URL_DO_REPOSITORIO>
-cd <nome_do_projeto>
+git clone <https://github.com/lotharmm/JetSales_.git>
+cd <JetSales_>
 
 Suba o ambiente com Docker Compose:
 docker-compose up -d
